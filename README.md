@@ -57,5 +57,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/nipun22" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-![Nipun's github activity graph](https://activity-graph.herokuapp.com/graph?username=lucifernipun22&theme=react-dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lucifernipun22&bg_color=000000&theme=react-dark&line=5bcdec&point=ffffff&area=true&hide_border=true)
+
 
