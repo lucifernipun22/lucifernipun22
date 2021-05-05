@@ -9,6 +9,7 @@
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Nipun's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=lucifernipun22.lucifernipun22)
 
 <br />
