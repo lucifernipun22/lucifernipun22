@@ -6,8 +6,8 @@
 <a href="https://twitter.com/NipunJa45651753">
   <img align="left" alt="Nipun Jain | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Nipun's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://www.youtube.com/channel/UCg4Q4efuAY7qoqUA9lI7_ig">
+  <img align="left" alt="Nipun's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lucifernipun22.lucifernipun22)
